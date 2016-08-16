@@ -1,9 +1,0 @@
-@found at http://www.math.ucla.edu/~getreuer/latex.html
-documentclass[12pt]{article}
-begin{document}
-
-The #1 story is that this article was compiled today (today) with
-LaTeX.  To try some commands, it includes textit{a few fancy}
-textbf{fonts}.
-
-end{document}
